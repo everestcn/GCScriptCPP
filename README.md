@@ -1,0 +1,2 @@
+# GCScriptCPP
+GCScript on C++
